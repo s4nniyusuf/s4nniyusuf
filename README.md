@@ -1,4 +1,4 @@
-**Sanni Yusuf** - AI/ML engineer (NLP & Agentic AI) | Statistics at the University of Lagos 
+**AI/ML engineer (NLP & Agentic AI) | Statistics at the University of Lagos**
 
 ### Github 
 <div align="center">
