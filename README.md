@@ -1,5 +1,15 @@
 **AI/ML engineer (NLP & Agentic AI) | Statistics at the University of Lagos**
 
+### Github 
+<div align="center">
+  <a href="https://commit-history.com/s4nniyusuf">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/s4nniyusuf?theme=dark" />
+      <img alt="s4nniyusuf's commit history" src="https://commit-history.com/embed/s4nniyusuf" />
+    </picture>
+  </a>
+</div>
+
 ### Connect with me
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://x.com/@s4nni_yusuf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanniyusuf) 
