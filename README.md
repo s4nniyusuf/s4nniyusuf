@@ -7,8 +7,8 @@
   <a href="mailto:ysanni560@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/sanniyusuf">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/s4nni_yusuf">X</a>
 </p>
 
-<p>
+<!-- <p>
   I build practical AI systems for the Nigerian context. I like turning ideas into things that actually work, and I curate the datasets behind many of my projects
-</p>
+</p> -->
 
 ## Featured Projects
