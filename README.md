@@ -13,15 +13,15 @@
 
 ## Featured Projects
 <p>
-  <a href="https://github.com/s4nniyusuf/ClaimCheck"><img src="assets/claimcheck-banner.svg" alt="ClaimCheck" width="48%"></a>
-  <a href="https://github.com/s4nniyusuf/Barrister"><img src="assets/barrister-banner.svg" alt="Barrister" width="48%"></a>
+  <a href="https://github.com/s4nniyusuf/ClaimCheck"><img src="assets/claimcheck-banner.svg" alt="ClaimCheck" width="49%"></a>
+  <a href="https://github.com/s4nniyusuf/Barrister"><img src="assets/barrister-banner.svg" alt="Barrister" width="49%"></a>
 </p>
 <p>
-  <a href="https://github.com/s4nniyusuf/9jaBallGist"><img src="assets/9jaballgist-banner.svg" alt="9jaBallGist" width="48%"></a>
-  <a href="https://github.com/s4nniyusuf/YarnRAG"><img src="assets/yarnrag-banner.svg" alt="YarnRAG" width="48%"></a>
+  <a href="https://github.com/s4nniyusuf/9jaBallGist"><img src="assets/9jaballgist-banner.svg" alt="9jaBallGist" width="49%"></a>
+  <a href="https://github.com/s4nniyusuf/YarnRAG"><img src="assets/yarnrag-banner.svg" alt="YarnRAG" width="49%"></a>
 </p>
 <p>
-  <a href="https://github.com/s4nniyusuf/nigerian-legal-corpus"><img src="assets/nigerian-legal-corpus-banner.svg" alt="Nigerian Legal Corpus" width="48%"></a>
+  <a href="https://github.com/s4nniyusuf/nigerian-legal-corpus"><img src="assets/nigerian-legal-corpus-banner.svg" alt="Nigerian Legal Corpus" width="49%"></a>
 </p>
 
 Issues, feedback and pull requests are welcome. Each project's README covers setup and current scope.
