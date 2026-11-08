@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-dark (3).svg" alt="Sanni Yusuf. Nigerian AI Engineer building practical AI systems, AI Agents and NLP applications. Open to AI/ML engineering opportunities." width="100%">
+  <img src="./assets/header-dark (3).svg" alt="Sanni Yusuf. Nigerian AI Engineer building practical AI systems, AI Agents and NLP applications. Open to AI/ML engineering opportunities." width="100%">
 </picture>
 
 <p align="center">
