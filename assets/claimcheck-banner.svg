@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="196" viewBox="0 0 600 196" role="img" aria-labelledby="title desc">
+  <title id="title">ClaimCheck</title>
+  <desc id="desc">A Jumia claim verification tool that benchmarks seller's claims from product descriptions against real customer experiences.</desc>
+  <rect x="0.5" y="0.5" width="599" height="195" rx="14" fill="#0d1117" stroke="#3d444d"/>
+  <text x="32" y="58" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650" letter-spacing="-0.5" fill="#f0f6fc">ClaimCheck</text>
+  <path d="M554 56 L568 42 M557 42 L568 42 L568 53" fill="none" stroke="#6e7681" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="96" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#9198a1">A Jumia claim verification tool that benchmarks seller's claims</text>
+  <text x="32" y="122" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#9198a1">from product descriptions against real customer experiences.</text>
+  <circle cx="38" cy="157" r="6" fill="#2da44e"/>
+  <text x="52" y="162" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" fill="#9198a1">Python</text>
+  <text x="568" y="162" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500" fill="#6e7681">ClaimCheck</text>
+</svg>

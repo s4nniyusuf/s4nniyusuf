@@ -1,19 +1,14 @@
-**AI/ML engineer (NLP & AI Agents) | Statistics at the University of Lagos**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-dark (1).svg" alt="Sanni Yusuf. Nigerian AI Engineer building practical AI systems, AI Agents and NLP applications. Open to AI/ML engineering opportunities." width="100%">
+</picture>
 
-### Github 
-<div align="center">
-  <a href="https://commit-history.com/s4nniyusuf">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/s4nniyusuf?theme=dark" />
-      <img alt="s4nniyusuf's commit history" src="https://commit-history.com/embed/s4nniyusuf" />
-    </picture>
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:ysanni560@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/sanniyusuf">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/s4nni_yusuf">X</a>
+</p>
 
-### Connect with me
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://x.com/@s4nni_yusuf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanniyusuf) 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ysanni560@gmail.com) 
-[![Résumé](https://img.shields.io/badge/Résumé-4A4A4A?style=flat&logo=readme&logoColor=white)](https://github.com/s4nniyusuf/s4nniyusuf/blob/main/YUSUF'S_RESUME.pdf)
-</div>
+<p>
+  I build practical AI systems for the Nigerian context. I like turning ideas into things that actually work, and I curate the datasets behind many of my projects
+</p>
 
+## Featured Projects
