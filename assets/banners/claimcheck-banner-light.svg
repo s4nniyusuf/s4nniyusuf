@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="254" viewBox="0 0 600 254" role="img" aria-labelledby="title desc">
+  <title id="title">ClaimCheck</title>
+  <desc id="desc">A Jumia claim verification tool that benchmarks seller’s claims from product descriptions against real customer experiences.</desc>
+  <rect x="0.5" y="0.5" width="599" height="253" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="32" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="500" letter-spacing="-0.5" fill="#1f2328">ClaimCheck</text>
+  <path d="M554 62 L568 48 M557 48 L568 48 L568 59" fill="none" stroke="#656d76" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">A Jumia claim verification tool that benchmarks</text>
+  <text x="32" y="138" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">seller’s claims from product descriptions against</text>
+  <text x="32" y="168" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">real customer experiences.</text>
+  <circle cx="38" cy="214" r="6" fill="#3fb950"/>
+  <text x="54" y="220" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#59636e">Python · NLP · Web Scraping</text>
+  <text x="568" y="220" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#656d76">ClaimCheck</text>
+</svg>
