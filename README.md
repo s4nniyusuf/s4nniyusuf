@@ -30,12 +30,12 @@ Issues, feedback and pull requests are welcome. Each project's README covers set
 ## Stack
 
 <p>
-  <img src="assets/stack/python.svg" alt="Python" title="Python" width="36" height="36" />&nbsp;
-  <img src="assets/stack/pytorch.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />&nbsp;
-  <img src="assets/stack/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />&nbsp;
-  <img src="assets/stack/langchain.svg" alt="LangChain" title="LangChain" width="36" height="36" />&nbsp;
-  <img src="assets/stack/langgraph.svg" alt="LangGraph" title="LangGraph" width="36" height="36" />&nbsp;
-  <img src="assets/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />
+  <img src="assets/stack/python.svg" alt="Python" title="Python" width="32" height="32" />&nbsp;
+  <img src="assets/stack/pytorch.svg" alt="PyTorch" title="PyTorch" width="32" height="32" />&nbsp;
+  <img src="assets/stack/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="32" height="32" />&nbsp;
+  <img src="assets/stack/langchain.svg" alt="LangChain" title="LangChain" width="32" height="32" />&nbsp;
+  <img src="assets/stack/langgraph.svg" alt="LangGraph" title="LangGraph" width="32" height="32" />&nbsp;
+  <img src="assets/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="32" height="32" />
 </p>
 
 **Language and data:** Python, pandas and NumPy.<br>
