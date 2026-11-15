@@ -27,7 +27,7 @@
 
 Issues, feedback and pull requests are welcome. Each project's README covers setup and current scope.
 
-## Stack
+<!-- ## Stack
 
 <p>
   <img src="assets/stack/python.svg" alt="Python" title="Python" width="32" height="32" />&nbsp;
@@ -38,7 +38,7 @@ Issues, feedback and pull requests are welcome. Each project's README covers set
   <img src="assets/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="32" height="32" />
 </p>
 
-<!-- **Language and data:** Python, pandas and NumPy.<br>
+**Language and data:** Python, pandas and NumPy.<br>
 **AI and NLP:** Hugging Face, spaCy, PyTorch and scikit-learn.<br>
 **RAG and LLMs:** LangChain, LlamaIndex, Chroma, OpenRouter.<br>
 **AI agents:** LangGraph and Smolagents.<br>
