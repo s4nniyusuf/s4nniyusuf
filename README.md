@@ -38,10 +38,10 @@ Issues, feedback and pull requests are welcome. Each project's README covers set
   <img src="assets/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="32" height="32" />
 </p>
 
-**Language and data:** Python, pandas and NumPy.<br>
+<!-- **Language and data:** Python, pandas and NumPy.<br>
 **AI and NLP:** Hugging Face, spaCy, PyTorch and scikit-learn.<br>
 **RAG and LLMs:** LangChain, LlamaIndex, Chroma, OpenRouter.<br>
 **AI agents:** LangGraph and Smolagents.<br>
 **Backend:** FastAPI and Docker<br>
 **Prototyping:** Streamlit.<br>
-**Data collection:** Beautiful Soup and Playwright.<br>
+**Data collection:** Beautiful Soup and Playwright.<br> -->
